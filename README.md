@@ -15,7 +15,7 @@ Este documento visa registrar e elucidar as etapas que compõem o nosso processo
 
 ### Especificações
 
-Para exemplificar o processo desenvolvido, fizemos uso da montagem em diagramas. Cada etapa é representada por um elemento presente no diagrama com as equipes Comercial e Desenvolvimento englobando àquelas pelas quais são responsáveis.
+Para exemplificar o processo desenvolvido, fizemos uso da montagem em diagramas. Cada etapa é representada por um elemento presente no diagrama com as equipes Comercial, Desenvolvimento e Suporte englobando àquelas pelas quais são responsáveis.
 
 É importante evidenciar que as etapas em verde indicam o início do processo enquanto as etapas em vermelho indicam o final, seja ele a entrega do projeto ou sua não execução. 
 
