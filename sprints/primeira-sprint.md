@@ -12,7 +12,7 @@
 - Intalação do Wordpres através do **Painel de Controle**
 - Adição de certifiado **SSL** ao domínio
 - Configuração da chave e do certificado no **Painel de Controle** da hospedagem
-- Aguardar atpe 10h para configuração do site pelo serviço de hospedagem
+- Aguardar até 10h para configuração do site pelo serviço de hospedagem
 
 ### Resumo:
 - Domínio: https://ramagem.great-site.net/
