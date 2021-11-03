@@ -16,5 +16,5 @@
 
 ### Resumo:
 - Domínio: https://ramagem.great-site.net/
-- Certificado SSL aparenta ainda não estar funcionando
+- Certificado SSL esta funcionando 
 - Painel do wordpress foi adicionado e pôde ser acessado normalmente
