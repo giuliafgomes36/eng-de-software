@@ -54,7 +54,7 @@ Desenvolvimento das páginas:
 - Página "Notícias"
 - Página "Contato"
 #### Daily 6 (07/11)
-- Os projetos desencolvidos localmente foram reunidos através das ferramentas de exportação e importação do Wordpress.
+- Os projetos desenvolvidos localmente foram reunidos através das ferramentas de exportação e importação do Wordpress.
 - Atualização do repositório remoto com a release atual do projeto.
 - Primeira tentativa de clonar o site no gitPages.
 #### Daily 7 (08/11)
