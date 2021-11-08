@@ -26,4 +26,7 @@ O projeto desenvolvido para a disciplina de engenharia de software consiste em u
 - Acessar localhost/meusite/ para ver o site
 - Para acessar o painel wordpress: localhost/meusite/wp-admin
 
+#### Para acessar o site no GitPages:
+- https://giuliafgomes36.github.io/
+
 
