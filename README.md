@@ -29,4 +29,34 @@ O projeto desenvolvido para a disciplina de engenharia de software consiste em u
 #### Para acessar o site no GitPages:
 - https://giuliafgomes36.github.io/
 
+### Sprint:
+O projeto foi realizado durante uma sprint, com duração de 7 dias. Todos os dias a daily meet era feita para verificação do andamento do projeto.
+
+#### Daily 1 (01/11)
+Criação do respositório do projeto de forma local:
+- Download servidor de aplicação XAMPP
+- Download Wordpress
+- Configurações banco de dados MYSQL
+#### Daily 2 (02/11)
+Inicio do desenvolvimento das páginas:
+- Definição do estilo principal do site (temas, cores, fontes e etc.)
+- Organização das mídias relacionadas à empresa (imagens, vídeos, notícias) para popular o site com conteúdos.
+#### Daily 3 (03/11)
+Desenvolvimento das páginas:
+- Página "Inicial" (menu, corpo e rodapé)
+- Página "Sobre Nós"
+#### Daily 4 (04/11)
+Desenvolvimento das páginas:
+- Página "Como Cuidar"
+- Página "Produtos"
+#### Daily 5 (05/11)
+Desenvolvimento das páginas:
+- Página "Notícias"
+- Página "Contato"
+#### Daily 6 (07/11)
+- Os projetos desencolvidos localmente foram reunidos através das ferramentas de exportação e importação do Wordpress.
+- Atualização do repositório remoto com a release atual do projeto.
+- Primeira tentativa de clonar o site no gitPages.
+#### Daily 7 (08/11)
+Clone do site (de forma estática) no gitPages para facilitar a demonstração e visualização.
 
